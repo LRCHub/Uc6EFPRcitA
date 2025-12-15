@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ナイトオンザプラネット",
+  "base_artist": "CreepHyp",
+  "createdAt": "2025-12-15T19:27:37.133667Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナイトオンザプラネット",
+      "artist": "Creep Hyp",
+      "has_synced": true,
+      "path": "select/01_ナイトオンザプラネット_Creep_Hyp.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ナイトオンザプラネット",
+      "artist": "クリープハイプ",
+      "has_synced": true,
+      "path": "select/02_ナイトオンザプラネット_クリープハイプ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ナイトオンザプラネット",
+      "artist": "Creep Hyp",
+      "has_synced": true,
+      "path": "select/03_ナイトオンザプラネット_Creep_Hyp.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ナイトオンザプラネット - NIGHT ON THE PLANET",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/04_ナイトオンザプラネット_-_NIGHT_ON_THE_PLANET_CreepHyp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナイトオンザプラネット",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_ナイトオンザプラネット_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ナイトオンザプラネット",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_02_ナイトオンザプラネット_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ナイトオンザプラネット",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_03_ナイトオンザプラネット_クリープハイプ.txt"
+    }
+  ]
+}
